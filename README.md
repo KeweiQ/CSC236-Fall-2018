@@ -1,2 +1,2 @@
 # Introduction-to-the-Theory-of-Computation-
-Course code: CSC261
+Course code: CSC263
