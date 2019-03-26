@@ -1,2 +1,2 @@
-# CSC236 Fall 2018
-Introduction to the Theory of Computation
+# Introduction to the Theory of Computation
+CSC236 Fall 2018
